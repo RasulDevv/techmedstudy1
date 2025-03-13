@@ -2,8 +2,9 @@ import a1 from "../images/1.jpg";
 import a2 from "../images/2.jpg";
 import a3 from "../images/3.jpg";
 import a4 from "../images/4.jpg";
+import a5 from "../images/5.jpg";
 
-let imgs = [a1, a3, a4];
+let imgs = [a5, a1, a3, a4];
 
 export default function Home() {
   return (
